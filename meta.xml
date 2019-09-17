@@ -1,0 +1,11 @@
+<meta>
+	<!-- Server-side modules -->	
+	<script src="server/main.lua" type="server" />
+
+	<!-- Client-side modules -->	
+	<script src="client/render.lua" type="client" />
+	<script src="client/buffer.lua" type="client" />
+
+	<!-- Files -->	
+	<file src="files/myriadproregular.ttf" />
+</meta>
